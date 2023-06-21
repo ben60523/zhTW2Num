@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="zhTW2Num",
-    version="1.0.0",
+    version="1.0.1",
     author="ben60523",
     description="Convert zh-TW numbers to Arabic numerals",
     url='https://github.com/ben60523/zhTW2Num',
