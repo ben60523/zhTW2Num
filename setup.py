@@ -8,6 +8,7 @@ setuptools.setup(
     version="1.0.0",
     author="ben60523",
     description="Convert zh-TW numbers to Arabic numerals",
+    url='https://github.com/ben60523/zhTW2Num',
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
