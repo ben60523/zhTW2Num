@@ -1,5 +1,5 @@
 # zhTW2Num
-
+[![Upload Python Package](https://github.com/ben60523/zhTW2Num/actions/workflows/python-publish.yml/badge.svg)](https://github.com/ben60523/zhTW2Num/actions/workflows/python-publish.yml) 
 ## Summary
 * This tool is for converting the number texts of Traditional Chinese into float
 * Float value is supported
